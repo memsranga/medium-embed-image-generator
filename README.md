@@ -1,38 +1,16 @@
-# create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+# Embed Medium Article As Image
 
-## Creating a project
+### Creates image out of Medium articles by fetching details like Author, Title, Description, Published Date and Image
+Like this one:
 
-If you're seeing this, you've probably already done this step. Congrats!
+<a href="https://medium.com/@memsranga/embed-medium-article-as-image-0483e090fb98"><img src="https://github.com/user-attachments/assets/2f90d554-b703-402a-b7c2-4ec7fef08606" alt="Embed Medium Article As Image" 
+style="width: 80%;" ></a>
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+### Read entire blog at: https://medium.com/@memsranga/embed-medium-article-as-image-0483e090fb98
+### Try it out: https://memsranga.github.io/medium-embed-image-generator/
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+---
 
-## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+<a href="https://www.buymeacoffee.com/memsranga" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" alt="Buy Me A Coffee" style="width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
